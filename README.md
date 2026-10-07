@@ -12,7 +12,7 @@ Ouvrez `index.html` dans un navigateur. Dans VS Code, l'extension Live Server pe
 - Couleurs, typographie, mise en page et responsive : `style.css`.
 - Logo utilisé dans l'en-tête : `logo.jpeg`. `logo_officiel.jpeg` en est la copie de sauvegarde actuelle. Pour changer le logo plus tard, remplacer `logo.jpeg` par le nouveau visuel en gardant ce nom : le HTML n'aura pas besoin d'être modifié.
 - Ancien logo noir et blanc : `logo_legacy.jpeg`.
-- Visuel d'accueil : `photo-accueil.png`. Visuel de présentation : `photo-presentation.png`. Ces fichiers sont indépendants et chacun peut être remplacé en gardant le même nom, sans modifier le HTML.
+- Visuel d'accueil : `photo-accueil.png`. Photo de présentation : `photo-presentation.jpg`. Ces fichiers sont indépendants et chacun peut être remplacé en gardant le même nom, sans modifier le HTML.
 - Icône temporaire de l'onglet : `favicon.svg`. Elle pourra être remplacée par le favicon officiel si l'association en fournit un.
 - Photos supplémentaires : déposer les fichiers dans `images/` et ajouter des éléments `<img>` avec un texte alternatif pertinent dans `index.html`. Utiliser uniquement des visuels dont l'association possède les droits.
 

@@ -29,6 +29,7 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Ajout de l'option de demande de reçu fiscal par message privé Facebook, en complément des coordonnées de la section Contact.
 - Adoption du texte proposé pour la demande de reçu fiscal, avec liens directs vers Facebook et la section Contact.
 - Déplacement des dix fichiers du site dans le sous-dossier `chatsansfamilles`, prêt à devenir la racine du nouveau dépôt.
+- Utilisation de `photo-presentation.jpg` dans la présentation et mise à jour de son texte alternatif pour décrire les deux chats photographiés.
 - Ajustement de la palette du site et de la favicon d'après l'infographie fiscale : crème et vert profond dominants, rose en accent.
 - Rééquilibrage de cette palette à la demande de l'association : vert sauge plus discret, pied de page charbon et fonds plus crème, tout en conservant le rose en accent.
 - Ajout du courriel officiel `chatsansfamilles@orange.fr` dans Contact avec un lien `mailto:` ; téléphone laissé à compléter.
