@@ -24,7 +24,7 @@ Le courriel et le numéro de téléphone officiels sont intégrés ; la date de 
 - Leetchi, HelloAsso et Wishlist Amazon : leurs URL fournies sont intégrées dans cet ordre.
 - Reçu fiscal : la demande peut se faire par message privé sur Facebook ou via le lien vers les coordonnées dans la section Contact. Le taux de 66 % et les exemples fournis doivent être vérifiés avant publication.
 - Article Actu.fr : le lien et le titre sont intégrés ; compléter la date de publication.
-- Contact : le courriel `chatsansfamilles@orange.fr` utilise un lien `mailto:` et le numéro `+33 6 29 36 99 68` un lien `tel:`.
+- Contact : le courriel `chatsansfamilles@orange.fr` utilise un lien `mailto:`. Cassandra (présidente) et Claire (secrétaire) ont chacune leur numéro affiché avec un lien `tel:`. La page Facebook permet aussi d'écrire en message privé.
 - Présentation : la page indique le statut non lucratif, la date de création, le secteur et les étapes de prise en charge des chats errants communiquées par l'association.
 - Numéro RNA fourni : `W272002242`, affiché dans la section « L'association ».
 - Mentions légales : compléter le pied de page avec les informations requises avant la mise en ligne.

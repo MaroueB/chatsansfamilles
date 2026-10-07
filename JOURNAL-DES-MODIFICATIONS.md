@@ -35,9 +35,16 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Ajout du courriel officiel `chatsansfamilles@orange.fr` dans Contact avec un lien `mailto:` ; téléphone laissé à compléter.
 - Ajout du téléphone officiel `+33 6 29 36 99 68` dans Contact avec un lien `tel:`.
 - Harmonisation du courriel et du téléphone dans Contact sous forme de deux liens-cartes au même format.
+- Remplacement du contact téléphonique unique par les numéros de Cassandra, présidente, et Claire, secrétaire, avec un lien `tel:` pour chacune.
+- Ajout de la page Facebook comme troisième moyen de contact, avec invitation à envoyer un message privé.
 - Ajout de la date de création confirmée, le 9 novembre 2015, dans la présentation de l'association.
 - Ajout du numéro RNA fourni, `W272002242`, dans la présentation.
 - Enrichissement de la présentation avec le statut non lucratif, les premiers soins vétérinaires, la stérilisation, les familles d'accueil et l'adoption ; mise à jour du hero et des descriptions SEO.
+- Suppression du cadre rose autour du visuel d'accueil.
+- Suppression du marqueur « 01 » et de sa colonne vide dans la section Adopter.
+- Suppression du marqueur « 01 » devant l'article et réalignement de la grille desktop/mobile.
+- Suppression des lettres A, B, C et D sur les cartes de soutien et retrait de leur colonne réservée.
+- Suppression des lettres A, B, C et D sur les cartes de soutien et retrait de leur colonne réservée.
 - Remplacement du titre de la section Contact par « Une question ? Contactez-nous. ».
 - Remplacement de la phrase générique du pied de page par une formulation centrée sur l'action et le secteur de l'association.
 - Vérification : aucun diagnostic signalé dans les fichiers modifiés ; logo chargé (398 × 339 px) et aucun débordement horizontal constaté à 390 px.
