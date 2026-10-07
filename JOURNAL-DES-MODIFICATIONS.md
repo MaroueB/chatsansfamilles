@@ -1,0 +1,42 @@
+# Journal des modifications
+
+Ce fichier garde une trace des changements apportés au site. Ajouter une entrée après chaque modification du projet, en indiquant la date, les fichiers concernés, le changement réalisé et les vérifications effectuées.
+
+## 2026-10-07
+
+- Création de la première version de la vitrine statique : `index.html`, `style.css`, `favicon.svg` et `README.md`.
+- Ajout des sections Accueil, L'association, Adopter, Nous soutenir, Actualités et Contact, avec des emplacements provisoires pour les photos, liens, articles et coordonnées manquants.
+- Ajout d'une option Wishlist Amazon pour les dons en nature, sans URL fictive.
+- Intégration des informations communiquées : secteur de Beuzeville / Pont-Audemer, dans l'Eure ; aide aux chats errants par les soins et la stérilisation.
+- Affichage du logo noir et blanc actuel dans l'en-tête et adaptation de la palette vers les tons pêche, terracotta, crème, noir et vert du futur logo illustré.
+- Documentation du fichier logo actuel dans le README.
+- À la demande de l'association, utilisation du logo noir et blanc comme visuel principal de l'accueil et suppression des tons verts de la palette.
+- Ajustement de la palette : réintroduction d'un vert sauge minoritaire sur de petits accents pour rappeler les feuilles du futur logo.
+- Renommage des images en `logo_legacy.jpeg` (logo actuel noir et blanc) et `logo.jpeg` (futur logo), puis mise à jour des références du site et du README.
+- Ajout du visuel fourni, renommé `photo-accueil.png`, à la place du logo dans le hero. Conservation du logo actuel noir et blanc dans l'en-tête et du ratio portrait complet de l'illustration.
+- Mise en place du nouveau fonctionnement des logos : l'en-tête utilise `logo.jpeg`, copié également sous `logo_officiel.jpeg` comme sauvegarde. Le fichier `logo.jpeg` pourra être remplacé ultérieurement sans modifier le HTML.
+- Duplication de `photo-accueil.png` en `photo-presentation.png` et affichage de cette copie dans la présentation, avec conservation de son ratio complet.
+- Ajout du lien Facebook fourni dans la section adoption et le pied de page. L'URL n'a pas été ouverte ni vérifiée.
+- Ajout de liens provisoires vers Free.fr pour HelloAsso, Leetchi, la wishlist Amazon et les trois articles, avec une mention visible et un rappel de les remplacer avant publication.
+- Réduction de la section Actualités à un seul emplacement d'article et un seul lien provisoire.
+- Remplacement des liens de test Leetchi, Amazon et article par les URL fournies ; ajout du titre Actu.fr et maintien d'HelloAsso comme unique lien de test.
+- Intégration du lien HelloAsso fourni ; les liens provisoires vers Free.fr ont ainsi tous été retirés de la page.
+- Réorganisation des options de soutien : Leetchi en premier, HelloAsso en deuxième, wishlist Amazon en troisième.
+- Ajout d'une carte « Demande de reçu fiscal » au même niveau que les options de soutien ; la démarche reste à compléter.
+- Transcription de l'infographie sur le reçu fiscal dans la carte : transmission des coordonnées, contact par message privé, taux et exemples indiqués.
+- Retrait de la mention « message privé » de la démarche de reçu fiscal pour éviter de la lier à Facebook ; le parcours de demande ultérieure reste à préciser.
+- Ajout d'un lien interne depuis la carte de reçu fiscal vers la section Contact, où seront indiquées les coordonnées pour la demande.
+- Ajout de l'option de demande de reçu fiscal par message privé Facebook, en complément des coordonnées de la section Contact.
+- Adoption du texte proposé pour la demande de reçu fiscal, avec liens directs vers Facebook et la section Contact.
+- Déplacement des dix fichiers du site dans le sous-dossier `chatsansfamilles`, prêt à devenir la racine du nouveau dépôt.
+- Ajustement de la palette du site et de la favicon d'après l'infographie fiscale : crème et vert profond dominants, rose en accent.
+- Rééquilibrage de cette palette à la demande de l'association : vert sauge plus discret, pied de page charbon et fonds plus crème, tout en conservant le rose en accent.
+- Ajout du courriel officiel `chatsansfamilles@orange.fr` dans Contact avec un lien `mailto:` ; téléphone laissé à compléter.
+- Ajout du téléphone officiel `+33 6 29 36 99 68` dans Contact avec un lien `tel:`.
+- Harmonisation du courriel et du téléphone dans Contact sous forme de deux liens-cartes au même format.
+- Ajout de la date de création confirmée, le 9 novembre 2015, dans la présentation de l'association.
+- Ajout du numéro RNA fourni, `W272002242`, dans la présentation.
+- Enrichissement de la présentation avec le statut non lucratif, les premiers soins vétérinaires, la stérilisation, les familles d'accueil et l'adoption ; mise à jour du hero et des descriptions SEO.
+- Remplacement du titre de la section Contact par « Une question ? Contactez-nous. ».
+- Remplacement de la phrase générique du pied de page par une formulation centrée sur l'action et le secteur de l'association.
+- Vérification : aucun diagnostic signalé dans les fichiers modifiés ; logo chargé (398 × 339 px) et aucun débordement horizontal constaté à 390 px.
