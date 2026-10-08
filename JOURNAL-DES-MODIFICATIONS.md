@@ -44,7 +44,35 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Suppression du marqueur « 01 » et de sa colonne vide dans la section Adopter.
 - Suppression du marqueur « 01 » devant l'article et réalignement de la grille desktop/mobile.
 - Suppression des lettres A, B, C et D sur les cartes de soutien et retrait de leur colonne réservée.
-- Suppression des lettres A, B, C et D sur les cartes de soutien et retrait de leur colonne réservée.
+- Ajout d'une option Teaming avec un lien provisoire vers Free.fr en attente de l'URL officielle.
+- Déplacement de l'option Teaming avant HelloAsso dans la liste des soutiens.
+- Raccourcissement du libellé du bouton Teaming à « Teaming ».
+- Remplacement du lien provisoire Teaming par l'URL fournie.
+- Ajout des événements et collectes à la note Facebook de l'accueil, avec lien direct vers la page.
+- Mise en évidence de la note Facebook du hero par une typographie plus grande, un fond rose pâle et un accent latéral.
+- Mise en gras des annonces d'adoption, événements et collectes dans la note Facebook.
+- Mise en rose foncé des mots en gras dans la note Facebook.
+- Augmentation de la taille de la note Facebook du hero à 16 px.
+- Réorganisation du bloc Nous soutenir en trois groupes : dons financiers, reçu fiscal séparé, puis dons en nature.
+- Mise en avant des dons en nature : déplacement de la wishlist Amazon avant les options financières et le reçu fiscal.
+- Allègement de la présentation du reçu fiscal sur mobile pour mieux équilibrer son poids visuel avec les boutons de don.
+- Réduction supplémentaire de la hauteur du reçu fiscal mobile ; exemples conservés sur une seule rangée.
+- Augmentation du texte explicatif du reçu fiscal à 13 px sur desktop et mobile.
+- Réduction de la largeur minimale de la page pour supprimer le défilement horizontal sur les très petits écrans.
+- Ajustement de l'en-tête et du menu sous 360 px pour supprimer le dernier débordement horizontal.
+- Agrandissement des boutons de soutien (wishlist comprise) et atténuation du fond et du texte des exemples fiscaux.
+- Agrandissement des libellés Soutien financier et Dons en nature ; exemples fiscaux réduits à 10 €, 50 € et 100 €.
+- Ajout de la date de publication de l'article Actu.fr : 24 août 2026.
+- Harmonisation de tous les sous-titres verts à 16 px, comme « Soutien financier ».
+- Mise en rose foncé de « Soutien financier », en gardant « Dons en nature » en vert sauge ; retrait du trait décoratif.
+- Ajout de précisions sur l'utilisation des dons financiers (soins vétérinaires) et des dons en nature (nourriture et matériel).
+- Uniformisation de la taille des grands titres de section (48 px desktop, 40 px mobile), en conservant leur casse phrase et le nom officiel du H1.
+- Placement des textes descriptifs de « Nous soutenir » et « Actualités » sous leurs titres plutôt qu'alignés à droite.
+- Ajout d'un espacement plus net entre Parrainage et Devenir famille d'accueil sur desktop et mobile.
+- Ajustement du repère vertical du hero pour éviter un léger débordement horizontal sur desktop.
+- Présentation des trois exemples fiscaux en trois colonnes, avec une taille de texte plus lisible.
+- Ajout des sections Parrainage et Devenir famille d'accueil après les options de soutien, avec ancres dans les navigations.
+- Enregistrement du prompt complet de reconstruction dans `PROMPT-RECONSTRUCTION.md`.
 - Remplacement du titre de la section Contact par « Une question ? Contactez-nous. ».
 - Remplacement de la phrase générique du pied de page par une formulation centrée sur l'action et le secteur de l'association.
 - Vérification : aucun diagnostic signalé dans les fichiers modifiés ; logo chargé (398 × 339 px) et aucun débordement horizontal constaté à 390 px.

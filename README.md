@@ -18,12 +18,14 @@ Ouvrez `index.html` dans un navigateur. Dans VS Code, l'extension Live Server pe
 
 ## Informations à compléter avant publication
 
-Le courriel et le numéro de téléphone officiels sont intégrés ; la date de l'article reste à fournir. Les liens fournis pour HelloAsso, Leetchi, Amazon et Actu.fr sont intégrés.
+Le courriel, les numéros de téléphone officiels et la date de publication de l'article sont intégrés. Le lien Teaming fourni est intégré.
 
-- Facebook : le lien fourni est déjà utilisé dans la section `adopter` et dans le pied de page.
-- Leetchi, HelloAsso et Wishlist Amazon : leurs URL fournies sont intégrées dans cet ordre.
+- Facebook : le lien fourni est utilisé dans l'accueil, l'adoption, les demandes de reçu fiscal, le contact et le pied de page. Les événements et collectes sont également signalés dans l'accueil.
+- Les options sont regroupées ainsi : dons en nature (Wishlist Amazon), dons financiers (Leetchi, Teaming, HelloAsso), puis reçu fiscal. Les liens Leetchi, HelloAsso et Amazon sont intégrés.
+- La page précise que les dons financiers financent en priorité les soins vétérinaires et que les dons en nature servent à fournir nourriture et matériel.
+- Parrainage et famille d'accueil : compléter les modalités et conditions avec l'association.
 - Reçu fiscal : la demande peut se faire par message privé sur Facebook ou via le lien vers les coordonnées dans la section Contact. Le taux de 66 % et les exemples fournis doivent être vérifiés avant publication.
-- Article Actu.fr : le lien et le titre sont intégrés ; compléter la date de publication.
+- Article Actu.fr : le lien, le titre et la date de publication sont intégrés.
 - Contact : le courriel `chatsansfamilles@orange.fr` utilise un lien `mailto:`. Cassandra (présidente) et Claire (secrétaire) ont chacune leur numéro affiché avec un lien `tel:`. La page Facebook permet aussi d'écrire en message privé.
 - Présentation : la page indique le statut non lucratif, la date de création, le secteur et les étapes de prise en charge des chats errants communiquées par l'association.
 - Numéro RNA fourni : `W272002242`, affiché dans la section « L'association ».
