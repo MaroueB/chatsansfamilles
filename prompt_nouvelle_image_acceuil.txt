@@ -1,36 +1,63 @@
 Créer une illustration carrée (format 1:1)
 
-STYLE VISUEL
+STYLE ARTISTIQUE (TRÈS IMPORTANT)
 
-Créer une illustration chaleureuse et attachante racontant une véritable scène de vie associative.
+Illustration narrative douce et chaleureuse.
 
-L'objectif n'est pas de produire une image parfaite ou publicitaire.
+Style naïf contemporain.
 
-L'objectif est de montrer l'âme d'un refuge et les liens entre les bénévoles et les animaux.
+Illustration évoquant un livre illustré.
 
-Style illustré semi-réaliste doux et lumineux.
+Aspect dessiné et peint.
 
-Esthétique proche d'un livre illustré contemporain pour adultes.
+Mélange de :
+- dessin traditionnel
+- aquarelle légère
+- gouache douce
+- carnet illustré
 
-Personnages stylisés mais crédibles.
+Traits simplifiés mais expressifs.
 
-Visages expressifs et attachants.
+Textures visibles.
 
-Visages individualisés.
+Couleurs naturelles et lumineuses.
 
-Conserver une légère stylisation graphique.
+Légère stylisation des formes et des visages.
 
-Éviter le photoréalisme.
+Personnages crédibles mais clairement illustrés.
 
-Éviter l'aspect photographie retouchée.
+On doit sentir la main de l'artiste.
 
-Éviter les visages de mannequins.
+L'image doit ressembler à une illustration et non à une photographie.
 
-Éviter les sourires artificiels de publicité.
+IMPORTANT :
 
-Éviter les personnages génériques issus du même modèle.
+Éviter absolument :
+- photoréalisme
+- rendu photo
+- rendu cinéma
+- rendu 3D
+- hyperréalisme
+- publicité
+- magazine de mode
+- influence Instagram
+- mannequins
+- beauté parfaite
+- peau lisse artificielle
+- personnages glamour
+- personnages idéalisés
 
-Les personnages doivent sembler être de vraies bénévoles passionnées et non des modèles posant pour une campagne marketing.
+Privilégier :
+- authenticité
+- spontanéité
+- imperfections naturelles
+- personnalités marquées
+- expressions variées
+- charme du dessin
+
+L'image doit évoquer la vie réelle d'un refuge associatif plutôt qu'une campagne de communication.
+
+Le spectateur doit avoir l'impression d'observer une scène dessinée sur le vif.
 
 L'image doit privilégier l'authenticité à la perfection.
 
@@ -135,17 +162,49 @@ Des chatons jouent autour de lui.
 La scène symbolise le passage de la rue vers la sécurité.
 
 BÉNÉVOLES
+Neuf bénévoles doivent être clairement visibles dans l'image.
 
-Neuf bénévoles visibles.
+Les 9 bénévoles sont présentes et identifiables individuellement.
+
+Aucune bénévole ne doit être cachée derrière une autre.
+
+Aucune bénévole ne doit être réduite à une simple silhouette à l'arrière-plan.
+
+Le spectateur doit pouvoir compter facilement les 9 bénévoles.
+
+Chaque bénévole possède :
+- un visage distinct
+- une coiffure distincte
+- une silhouette distincte
+- une tenue distincte
+- une attitude distincte
+
+Les neuf bénévoles forment une véritable équipe habituée à travailler ensemble.
+
+Elles sont réparties naturellement dans la scène autour des chats et des chatons.
+
+La composition doit éviter l'effet photo de groupe tout en permettant de reconnaître clairement les 9 personnes.
 
 Toutes possèdent une apparence distincte et immédiatement identifiable.
 
-Chaque bénévole doit être reconnaissable par :
-- son visage
-- sa coiffure
-- sa silhouette
-- sa posture
-- sa tenue
+
+Les bénévoles sont des femmes ordinaires et crédibles.
+
+Elles ne sont pas représentées comme des mannequins.
+
+Elles ont des visages variés.
+
+Certaines ont quelques rides.
+
+Certaines portent des lunettes.
+
+Certaines ont des silhouettes plus rondes.
+
+Certaines ont des coiffures moins parfaites.
+
+Les vêtements tombent naturellement.
+
+Les bénévoles doivent sembler avoir passé leur matinée à s'occuper des chats, pas à préparer une séance photo.
 
 MORPHOLOGIES, APPARENCE ET PERSONNALITÉS
 
@@ -164,17 +223,29 @@ Les différences physiques sont visibles mais restent harmonieuses.
 Aucune bénévole ne doit sembler être une variante d'une autre.
 
 Présidente
-- cheveux noirs longs avec mèches vertes aux pointes
+
 - petite taille
+- cheveux noirs longs
+- pointes vertes discrètes
 - silhouette moyenne légèrement sportive
-- très expressive
 - dynamique
-- énergie communicative
+- expressive
 - souvent entourée de chatons
-- position centrale dans la scène
-- un peu rock
-- possède quelques tatouages visibles mais non mis en avant
-- porte un T-shirt féminin « Chat sans Familles », avec éventuellement quelques détails délicats ou de la dentelle
+
+Tenue :
+
+- tee-shirt ou blouse féminine colorée
+- vert sauge, bleu canard, bordeaux doux ou prune
+- logo discret Chat sans Familles
+- petite touche de dentelle possible
+- quelques tatouages discrets
+
+Elle évoque une responsable associative passionnée.
+
+Pas de look rock marqué.
+
+Pas de vêtements noirs dominants.
+
 
 Trésorière
 - cheveux bruns relevés en chignon
@@ -288,6 +359,32 @@ Mélange harmonieux de :
 Éviter les motifs répétitifs.
 
 Éviter l'effet uniforme.
+
+VIEUX CHIEN DU REFUGE
+
+Présence d'un vieux chien vivant au refuge.
+
+- chien âgé
+- museau grisonnant
+- regard doux
+- attitude paisible
+- taille moyenne à grande
+- couché ou assis dans l'herbe
+
+Le vieux chien est parfaitement intégré à la vie du refuge.
+
+Il observe tranquillement les chatons.
+
+Certains chatons passent près de lui sans crainte.
+
+Une ou deux bénévoles peuvent lui accorder une caresse en passant.
+
+Le vieux chien apporte une sensation de sécurité, de stabilité et de tendresse.
+
+Il ne doit pas être le sujet principal de l'image.
+
+Il fait naturellement partie de la famille du refuge.
+
 
 CHATONS
 

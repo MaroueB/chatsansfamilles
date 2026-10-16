@@ -53,6 +53,8 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Mise en gras des annonces d'adoption, événements et collectes dans la note Facebook.
 - Mise en rose foncé des mots en gras dans la note Facebook.
 - Augmentation de la taille de la note Facebook du hero à 16 px.
+- Uniformisation de la couleur de toute la note Facebook sur le gris du texte d'introduction.
+- Application du style discret de la note Facebook aux versions desktop et mobile, puis déplacement de cette note avant les boutons de l'accueil.
 - Réorganisation du bloc Nous soutenir en trois groupes : dons financiers, reçu fiscal séparé, puis dons en nature.
 - Mise en avant des dons en nature : déplacement de la wishlist Amazon avant les options financières et le reçu fiscal.
 - Allègement de la présentation du reçu fiscal sur mobile pour mieux équilibrer son poids visuel avec les boutons de don.
@@ -61,18 +63,114 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Réduction de la largeur minimale de la page pour supprimer le défilement horizontal sur les très petits écrans.
 - Ajustement de l'en-tête et du menu sous 360 px pour supprimer le dernier débordement horizontal.
 - Agrandissement des boutons de soutien (wishlist comprise) et atténuation du fond et du texte des exemples fiscaux.
-- Agrandissement des libellés Soutien financier et Dons en nature ; exemples fiscaux réduits à 10 €, 50 € et 100 €.
+- Agrandissement des libellés Soutien financier et Dons en nature ; exemples fiscaux affichés pour 10 €, 20 €, 50 € et 100 €.
 - Ajout de la date de publication de l'article Actu.fr : 24 août 2026.
 - Harmonisation de tous les sous-titres verts à 16 px, comme « Soutien financier ».
 - Mise en rose foncé de « Soutien financier », en gardant « Dons en nature » en vert sauge ; retrait du trait décoratif.
+- Harmonisation de la barre de la carte Facebook avec le rose foncé et éclaircissement des fonds roses.
+- Application du rose foncé du sous-titre aux boutons Leetchi, Teaming et HelloAsso.
 - Ajout de précisions sur l'utilisation des dons financiers (soins vétérinaires) et des dons en nature (nourriture et matériel).
 - Uniformisation de la taille des grands titres de section (48 px desktop, 40 px mobile), en conservant leur casse phrase et le nom officiel du H1.
+- Harmonisation effective des paragraphes descriptifs des sections à 16 px sur desktop et mobile, avec davantage d'espace sous Parrainage et famille d'accueil.
+- Harmonisation des paragraphes descriptifs à 16 px sur desktop et mobile et ajout d'espace sous les titres Parrainage et famille d'accueil.
+- Réparation de fragments CSS de base et suppression des réductions mobiles qui rendaient les paragraphes incohérents.
+- Changement de couleur du bouton « Nous soutenir » vers un rose pâle distinct du bouton d'adoption vert.
+- Harmonisation de « Familles » et du bouton « Nous soutenir » sur le rose foncé de « Soutien financier », avec texte clair sur le bouton.
 - Placement des textes descriptifs de « Nous soutenir » et « Actualités » sous leurs titres plutôt qu'alignés à droite.
 - Ajout d'un espacement plus net entre Parrainage et Devenir famille d'accueil sur desktop et mobile.
+- Réparation de la règle H1 et harmonisation des paragraphes descriptifs en 16 px gris sur desktop et mobile ; espace sous les titres Parrainage et Devenir famille d'accueil porté à 24 px.
+- Rédaction de la section Parrainage et mise en évidence du montant de 15 € par mois dans un encart.
 - Ajustement du repère vertical du hero pour éviter un léger débordement horizontal sur desktop.
-- Présentation des trois exemples fiscaux en trois colonnes, avec une taille de texte plus lisible.
+- Présentation des exemples fiscaux dans une grille compacte de deux colonnes.
+- Ajout d'un fin liseré rose foncé à gauche de la carte « Nos coordonnées ».
+- Retrait du liseré de Contact et harmonisation du titre « Nos coordonnées » avec le surtitre « Soutien financier ».
+- Suppression de la taille mobile spécifique du titre Contact pour conserver exactement le même format sur toutes les largeurs.
+- Rétablissement de la police sérif Palatino sur le H1 et les grands titres de section.
 - Ajout des sections Parrainage et Devenir famille d'accueil après les options de soutien, avec ancres dans les navigations.
 - Enregistrement du prompt complet de reconstruction dans `PROMPT-RECONSTRUCTION.md`.
 - Remplacement du titre de la section Contact par « Une question ? Contactez-nous. ».
 - Remplacement de la phrase générique du pied de page par une formulation centrée sur l'action et le secteur de l'association.
 - Vérification : aucun diagnostic signalé dans les fichiers modifiés ; logo chargé (398 × 339 px) et aucun débordement horizontal constaté à 390 px.
+
+## 2026-10-09
+
+- Harmonisation de la police des textes dans les encarts d'adoption, de reçu fiscal et de parrainage avec celle des paragraphes.
+- Uniformisation de tous les autres textes avec la police des paragraphes ; seuls les grands titres conservent Palatino.
+- Mise en vert du texte « 66 % » sur la même teinte que « Dons en nature ».
+- Mise en gris du titre « Reçu fiscal », assorti à son texte explicatif.
+- Essai de Cooper Black sur le H1 « Chats sans Familles », avec Palatino en police de repli.
+- Abandon de l'essai Cooper Black et rétablissement de Palatino sur le H1.
+- Ajout sous le H1 de la signature « & L'Arche au-delà des moustaches », en Palatino italique gris et petit format.
+- Augmentation légère de la taille de la signature sous le H1, de 15 à 17 px.
+- Mise en majuscule de « Sans » dans le grand titre d'accueil.
+- Nouvelle augmentation de la signature sous le H1, de 17 à 19 px.
+- Rétablissement du style des surtitres de section : sans-serif, petites capitales espacées, vert sauge.
+- Police des surtitres héritée de la police générale du site et application du même style au repère géographique.
+- Raccourcissement du lien d'adoption à « Chats à adopter », réduction des titres de carte et d'article, et généralisation du texte d'introduction de la presse pour plusieurs publications.
+- Réduction du titre d'article à 15 px sur toutes les tailles et harmonisation de sa couleur avec le gris des paragraphes.
+- Passage du titre d'article au vert sauge utilisé pour « Dons en nature ».
+- Remplacement du panneau rose d'adoption par une vignette photo compacte et un lien Facebook sans encart.
+- Passage du lien d'adoption au rose foncé habituel.
+- Agrandissement de la vignette d'adoption à 160 px sur ordinateur, en gardant 104 px sur mobile.
+- Nouvelle présentation textuelle de l'adoption et agrandissement de la vignette à 200 px sur ordinateur, toujours 104 px sur mobile.
+- Préparation d'un emplacement pour les conditions d'adoption au-dessus de la vignette, avec un texte provisoire à remplacer.
+- Présentation du bloc de conditions d'adoption dans le même encart rose pâle que le montant du parrainage.
+- Réduction du montant de parrainage « 15 € » à 24 px sur desktop et 22 px sur mobile.
+- Ajout de la photo déjà utilisée sur le site dans la section Parrainage, à droite sur desktop et en petite vignette sur mobile.
+- Remplacement du texte provisoire de Famille d'accueil par le texte fourni et ajout de la même photo à gauche sur desktop.
+- Regroupement de la question famille d'accueil et du lien « Contactez-nous » sur une même ligne de texte.
+- Mise en gras et en rose foncé de la question famille d'accueil.
+- Déplacement de la photo Famille d'accueil après le texte sur mobile, tout en la gardant à gauche sur desktop.
+- Nettoyage des actualités : libellé accessible mis à jour et commentaire de date obsolète supprimé ; README ajusté pour marquer les montants de parrainage et le reçu fiscal comme confirmés.
+- Ajout d'une photo dans la section Soutien pour combler l'espace vide sur desktop et placement en bas de section sur mobile.
+- Mise en place d'un bloc provisoire de mentions légales au pied de page avec les informations connues et les champs restants à compléter.
+- Ajout de Cassandra Heutte comme présidente et responsable de la publication dans les mentions légales.
+- Ajout de l'article Actu.fr sur la soirée hypnose, publié le 4 mai 2025, dans l'ordre chronologique des actualités.
+- Ajout de l'adresse du siège social de l'association aux mentions légales provisoires.
+- Ajout de l'adresse et du lien de GitHub, Inc. comme hébergeur de GitHub Pages.
+- Affichage de la ligne de copyright en majuscules.
+- Harmonisation de la casse du H1 avec la graphie officielle « Chats sans Familles ».
+- Uniformisation du nom en « Chats Sans Familles » dans le site, ses métadonnées et le titre du README.
+- Harmonisation de la casse source du copyright, dont l'affichage reste entièrement en majuscules.
+- Renommage des 32 visuels du dossier `Fwd__Photo_mimi` en `photo-asso-01` à `photo-asso-32`, en conservant leurs extensions.
+- Utilisation de `photo-asso-14.jpg` dans la section Famille d'accueil, avec un texte alternatif adapté.
+- Utilisation de `photo-asso-09.jpg` dans la section Parrainage, avec un texte alternatif adapté.
+- Remplacement de l'image de la section Soutien par `photo-asso-16.jpg` et ajustement du cadrage pour montrer la chatte et sa portée.
+- Utilisation de `photo-asso-32.jpg` dans la vignette d'adoption et ajustement de son cadrage.
+- Remplacement de la photo d'adoption par la version retouchée `photo-asso-32_b.jpg`.
+- Utilisation de `photo-asso-30.jpg` pour illustrer la présentation de l'association, sans réutiliser d'image déjà affichée.
+- Réduction de la photo de présentation à 200 px de large sur desktop et mobile, en conservant son ratio d'origine.
+- Recadrage de la photo de présentation en carré sur mobile, en gardant le ratio original sur desktop.
+- Passage de la photo de présentation au format carré sur toutes les tailles d'écran.
+- Création et utilisation d'une copie carrée dédiée de la photo n° 30 ; l'original vertical est conservé.
+- Retrait du filtre sépia CSS ; les photos seront retouchées directement par l'association.
+- Remplacement de la copie carrée de la photo n° 30 par la version retouchée `photo-asso-30_b.jpg` dans la section de présentation.
+- Déplacement de l'identifiant RNA au-dessus du lien « Prendre contact » dans la section de présentation.
+- Agrandissement de la photo « Au plus près des chats errants » à 280 px sur ordinateur, en conservant 200 px sur mobile.
+- Centrage de la photo de Parrainage sur mobile.
+- Centrage de la photo Famille d'accueil sur mobile.
+- Remplacement du placeholder des conditions d'adoption par le résumé du certificat d'engagement et du délai de 7 jours.
+- Ajout de `photo-asso-24_b.jpg` dans la section Actualités, à droite sur ordinateur et centrée sous la liste sur mobile, sans recadrage.
+- Suppression des hauteurs et recadrages CSS imposés aux images ; les fichiers conservent désormais leurs proportions natives sur toutes les versions.
+- Remplacement de la photo de soutien n° 16 par sa version retouchée `photo-asso-16_b.jpg`.
+- Remplacement de la photo de parrainage n° 09 par sa version retouchée `photo-asso-09_b.jpg`.
+- Remplacement de la photo Famille d'accueil n° 14 par sa version retouchée `photo-asso-14_b.jpg`.
+- Complément du résumé d'adoption avec les modalités de vaccination, de stérilisation et la signature du contrat ; mise à jour des notes de préparation des contrats 2027.
+- Précision des deux choix de primo-vaccination Typhus/Coryza et du test FIV/FeLV comme option distincte dans le résumé d'adoption.
+- Présentation du résumé d'adoption sous forme de chronologie, de la réservation au suivi de stérilisation.
+- Raccourcissement et réduction typographique de la chronologie d'adoption pour améliorer sa lecture mobile.
+- Précision du texte sur la primo-vaccination Typhus/Coryza, avec invitation à contacter l'association pour plus de détails.
+- Ajustement de la formulation et de la ponctuation des précisions vaccinales dans la chronologie d'adoption.
+- Précision du rôle de l'adoptant dans la stérilisation et du sort de la caution dans la chronologie d'adoption.
+- Distinction explicite entre les étapes d'adoption d'un chaton et la note générale sur l'adoption d'un chat adulte.
+- Séparation de la note concernant les chats adultes de l'encart chronologique des chatons pour alléger ce dernier.
+- Déplacement de la vignette et du lien « Découvrir les chats à adopter » dans la première colonne sur desktop ; empilement conservé sur mobile.
+- Décalage léger de la chronologie d'adoption vers le bas sur desktop pour équilibrer les colonnes.
+- Réorganisation de la grille d'adoption pour aligner le début de la chronologie avec le premier paragraphe sur desktop.
+- Précision que c'est le chaton que l'adoptant doit faire stériliser avant ses 7 mois.
+- Clarification : le contrat de réservation et le certificat sont signés ensemble, mais le délai de 7 jours concerne le certificat.
+- Précision : le contrat d'adoption est signé au départ du chaton.
+- Séparation de l'étape de réservation et de la signature du certificat d'engagement ; le délai de 7 jours ne s'applique qu'au certificat.
+- Mise à jour de la chronologie d'adoption avec l'acompte de réservation et les formulations fournies sur les options de soins et la stérilisation.
+- Ajout d'un lien de téléchargement vers le certificat d'engagement et de connaissance dans l'étape « Engagement ».
+- Clarification du libellé du téléchargement et ajout d'un espace avant le lien du certificat.
