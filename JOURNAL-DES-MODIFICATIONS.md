@@ -188,3 +188,4 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Titre et introduction plus chaleureux pour la galerie de parrainage ; suppression de la mention de maquette et ajout du suffixe « (temp) » aux dix noms affichés.
 - Reformulation de l'introduction de la galerie avec « nos petits protégés », sans nombre de chats dans le texte ni dans son libellé accessible.
 - Remplacement de la répétition « nos petits protégés » dans l'introduction par « votre futur filleul ».
+- Ajout d'un repère de version à l'adresse de l'image d'accueil pour éviter l'affichage d'une ancienne copie en cache après son remplacement.
