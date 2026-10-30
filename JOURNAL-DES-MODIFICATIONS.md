@@ -174,3 +174,11 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Mise à jour de la chronologie d'adoption avec l'acompte de réservation et les formulations fournies sur les options de soins et la stérilisation.
 - Ajout d'un lien de téléchargement vers le certificat d'engagement et de connaissance dans l'étape « Engagement ».
 - Clarification du libellé du téléchargement et ajout d'un espace avant le lien du certificat.
+- Regroupement de la réservation et de la remise du certificat signé dans une étape située lors de la visite à l'association.
+- Clarification de la remise du certificat et ajout des liens de consultation vers les trois PDF actuels, marqués comme susceptibles d'évoluer en 2027.
+- Réorganisation des liens PDF d'adoption dans l'ordre certificat, réservation, puis contrat d'adoption.
+- Reformulation de l'étape de réservation pour préciser qu'une visite à l'association est nécessaire.
+- Remplacement des intitulés « Départ » et « Après l'adoption » par « Le jour de l'adoption » et « Vos premiers mois ensemble ».
+- Reformulation plus chaleureuse des trois étapes d'adoption du chaton, en conservant les obligations et délais communiqués.
+- Passage à la deuxième personne dans l'étape « Vos premiers mois ensemble » pour clarifier les responsabilités de l'adoptant.
+- Reformulation de l'engagement de stérilisation et de transmission du justificatif selon le texte fourni.

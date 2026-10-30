@@ -464,12 +464,38 @@ h1 em {
   margin-top: 7px;
 }
 
-.adopt-download {
-  margin: 16px 0 0;
+.adopt-documents {
+  padding-block: 14px;
+  border-top: 1px solid var(--line);
 }
 
-.adopt-download .text-link {
-  margin-top: 0;
+.adopt-documents-title {
+  margin: 0;
+  color: var(--coral-deep);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.adopt-document-links {
+  display: grid;
+  gap: 7px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.adopt-document-links a {
+  color: var(--accent-deep);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.adopt-documents-note {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
 }
 
 .adopt-adult-note {
