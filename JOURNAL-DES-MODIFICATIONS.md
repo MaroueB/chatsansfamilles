@@ -182,3 +182,4 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Reformulation plus chaleureuse des trois étapes d'adoption du chaton, en conservant les obligations et délais communiqués.
 - Passage à la deuxième personne dans l'étape « Vos premiers mois ensemble » pour clarifier les responsabilités de l'adoptant.
 - Reformulation de l'engagement de stérilisation et de transmission du justificatif selon le texte fourni.
+- Passage à une adresse directe à l'adoptant dans l'étape « Le jour de l'adoption ».
