@@ -594,6 +594,95 @@ h1 em {
   object-fit: contain;
 }
 
+.care-process {
+  margin-top: 44px;
+  padding-block: 34px 8px;
+  border-top: 1px solid var(--line);
+}
+
+.care-process-heading {
+  max-width: 660px;
+  margin: 0 0 22px;
+  text-align: left;
+}
+
+.care-process-heading .eyebrow {
+  margin-bottom: 12px;
+  color: var(--accent-deep);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.care-process-heading > p:last-child {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.care-process-diagram {
+  position: relative;
+}
+
+.care-process-steps {
+  position: relative;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.care-process-steps::before {
+  position: absolute;
+  top: 22px;
+  bottom: 22px;
+  left: 15px;
+  width: 2px;
+  background: var(--coral-pale);
+  content: "";
+}
+
+.care-process-step {
+  position: relative;
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr);
+  gap: 10px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.care-process-number {
+  position: relative;
+  display: grid;
+  width: 32px;
+  aspect-ratio: 1;
+  place-items: center;
+  border: 2px solid var(--paper-deep);
+  border-radius: 50%;
+  color: white;
+  background: var(--coral-deep);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.care-process-step h4 {
+  margin: 2px 0 4px;
+  color: var(--accent-deep);
+  font-family: var(--sans);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.care-process-step p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 .support-heading,
 .press-heading {
   display: block;
@@ -1468,6 +1557,16 @@ h1 em {
     gap: 24px;
   }
 
+  .care-process {
+    margin-top: 32px;
+    padding-top: 26px;
+  }
+
+  .care-process-heading {
+    margin-bottom: 16px;
+    text-align: left;
+  }
+
   .support-photo {
     width: 220px;
     justify-self: center;
@@ -1709,3 +1808,4 @@ h1 em {
     transition-duration: 0.01ms !important;
   }
 }
+

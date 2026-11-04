@@ -219,6 +219,10 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Remplacement des points-virgules de la liste des actions bénévoles par une ponctuation homogène en phrases autonomes.
 - Correction de l'étape de réservation pour préciser que la rencontre avec le chaton est organisée dans sa famille d'accueil après un premier contact avec l'association.
 - Renommage de la première étape d'adoption en « Votre première rencontre » et mise en vert des trois intitulés d'étape.
+- Ajout sous « Nous soutenir » d'un parcours de prise en charge en neuf étapes, présenté en liste verticale sur toutes les tailles d'écran.
+- Allègement de la typographie et des espacements du parcours de prise en charge pour réduire sa hauteur sur mobile.
+- Remplacement du titre du parcours par « Le parcours des chats recueillis », au format des titres principaux, et passage en vert de l'intertitre « Derrière chaque chat sauvé ».
+- Renommage du parcours en « Parcours de nos protégés », remplacement du surtitre par « Prise en charge » et ajout de liens vers cette section dans les menus.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
 - Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
 - Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
