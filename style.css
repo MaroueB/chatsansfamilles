@@ -919,9 +919,23 @@ h1 em {
   border-top: 1px solid var(--line);
 }
 
+.engagement-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.8fr);
+  align-items: center;
+  gap: clamp(32px, 5vw, 64px);
+  margin-bottom: 32px;
+}
+
 .engagement-heading {
   max-width: 720px;
-  margin-bottom: 32px;
+}
+
+.engagement-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
 }
 
 .engagement-heading .eyebrow {
@@ -1572,6 +1586,12 @@ h1 em {
 
   .engagement-section {
     padding-block: 56px;
+  }
+
+  .engagement-intro {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    margin-bottom: 28px;
   }
 
   .engagement-heading h2 {

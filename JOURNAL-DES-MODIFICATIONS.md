@@ -215,6 +215,8 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Application des couleurs noir et rose aux mentions visibles du nom de l'association, avec des teintes adaptées au pied de page sombre.
 - Mise en gras du nom de l'association dans le bloc Reçu fiscal et renforcement du rose de « Familles » dans le nom du pied de page.
 - Passage en rose de la barre latérale de la galerie de parrainage et remplacement de son fond vert pâle par le rose pâle de l'encart de parrainage.
+- Ajout du visuel rectangulaire du stand de collecte dans l'introduction du chapitre « Bénévolat et adhésion », en conservant ses proportions.
+- Remplacement des points-virgules de la liste des actions bénévoles par une ponctuation homogène en phrases autonomes.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
 - Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
 - Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
