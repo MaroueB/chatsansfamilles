@@ -189,3 +189,33 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Reformulation de l'introduction de la galerie avec « nos petits protégés », sans nombre de chats dans le texte ni dans son libellé accessible.
 - Remplacement de la répétition « nos petits protégés » dans l'introduction par « votre futur filleul ».
 - Ajout d'un repère de version à l'adresse de l'image d'accueil pour éviter l'affichage d'une ancienne copie en cache après son remplacement.
+- Précision dans la présentation de l'association : absence de refuge et accueil des chats au sein de familles d'accueil bénévoles.
+- Fusion des paragraphes sur le parcours des chats et l'absence de refuge pour éviter la répétition concernant les familles d'accueil.
+- Remplacement de la présentation par le texte fourni, détaillant le rôle indispensable des familles d'accueil et les actions de soutien des bénévoles, avec le nom de l'association en gras.
+- Mise en gras des passages « Ne disposant pas de refuge », « s'appuie » et « familles d'accueil bénévoles » dans la présentation.
+- Ajustement du gras dans la présentation : retrait sur « s'appuie » et « bénévoles », maintien sur « familles d'accueil ».
+- Ajout de la mention d'intérêt général dans les informations sur les reçus fiscaux.
+- Reformulation de l'information sur les reçus fiscaux avec le texte fourni, incluant la contribution des soutiens à la prise en charge des chats.
+- Ajout des créations d'objets pour la vente solidaire et de l'organisation ou participation à des foires à tout, salons et autres manifestations parmi les actions bénévoles.
+- Déplacement des exemples d'actions bénévoles dans un nouveau chapitre « S'engager », avec des sous-parties distinctes pour le bénévolat et l'adhésion comme membre.
+- Renommage du chapitre et de ses liens de navigation en « Bénévolat et adhésion » pour distinguer ces engagements de la famille d'accueil.
+- Remplacement du contenu de la sous-partie bénévolat par le texte fourni, avec ses exemples d'engagement et la mise en avant de chaque contribution.
+- Mise en forme du titre « Devenir bénévole » en rose, gras et capitales, comme le libellé « Soutien financier ».
+- Mise en rose de la phrase de conclusion « Il n'y a pas de petit coup de pouce : chaque aide compte. » dans le bloc bénévolat.
+- Mise en vert et en gras de « Devenir membre » et « Reçu fiscal », sur le modèle de « Dons en nature ».
+- Remplacement du texte provisoire sur l'adhésion par les trois formules indiquées : membre actif, adhérent à 15 €/an et bienfaiteur à partir de 30 €/an.
+- Mise en forme du titre « Nos petits protégés à parrainer » comme le libellé rose « Soutien financier ».
+- Ajustement du titre « Reçu fiscal » à 18 px sur ordinateur et mobile, en conservant le vert et le gras.
+- Harmonisation des noms des chats de la galerie avec la police du texte courant, en vert et en gras.
+- Restylage de la galerie de parrainage avec fond vert pâle et barre d'accent, titre agrandi, noms roses et liens d'action verts ; correction du soulignement des liens « Contactez-nous ».
+- Retour à la police sans-serif précédente pour le titre de la galerie de parrainage.
+- Mise au format complet de « Dons en nature » du titre de la galerie : vert, gras et en capitales.
+- Passage en rose du titre de la galerie de parrainage, en conservant sa mise en forme.
+- Raccourcissement de l'accroche du chapitre « Bénévolat et adhésion » à « Participer ».
+- Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
+- Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
+- Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
+- Passage en rose du titre « Devenir membre » et des trois intitulés de formule d'adhésion.
+- Maintien des tarifs « 15 € par an » et « À partir de 30 € par an » en vert, distincts des intitulés roses.
+- Correction de la couleur du titre « Devenir membre » : il reste vert, seuls les intitulés des formules sont roses.
+- Reformulation de « Son souhait » en « Le souhait de l'association » dans la présentation.
