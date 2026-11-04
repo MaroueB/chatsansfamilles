@@ -212,6 +212,9 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Mise au format complet de « Dons en nature » du titre de la galerie : vert, gras et en capitales.
 - Passage en rose du titre de la galerie de parrainage, en conservant sa mise en forme.
 - Raccourcissement de l'accroche du chapitre « Bénévolat et adhésion » à « Participer ».
+- Application des couleurs noir et rose aux mentions visibles du nom de l'association, avec des teintes adaptées au pied de page sombre.
+- Mise en gras du nom de l'association dans le bloc Reçu fiscal et renforcement du rose de « Familles » dans le nom du pied de page.
+- Passage en rose de la barre latérale de la galerie de parrainage et remplacement de son fond vert pâle par le rose pâle de l'encart de parrainage.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
 - Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
 - Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
@@ -219,3 +222,4 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Maintien des tarifs « 15 € par an » et « À partir de 30 € par an » en vert, distincts des intitulés roses.
 - Correction de la couleur du titre « Devenir membre » : il reste vert, seuls les intitulés des formules sont roses.
 - Reformulation de « Son souhait » en « Le souhait de l'association » dans la présentation.
+- Mise à jour du paragraphe sur les autres bénévoles et mise en rose/gras des messages clés sur l'absence de refuge, les familles d'accueil et la seconde chance.
