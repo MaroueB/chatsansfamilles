@@ -486,6 +486,10 @@ h1 em {
   margin-top: 7px;
 }
 
+.adopt-steps strong {
+  color: var(--accent-deep);
+}
+
 .adopt-documents {
   padding-block: 14px;
   border-top: 1px solid var(--line);

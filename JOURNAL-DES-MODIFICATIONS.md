@@ -217,6 +217,8 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Passage en rose de la barre latérale de la galerie de parrainage et remplacement de son fond vert pâle par le rose pâle de l'encart de parrainage.
 - Ajout du visuel rectangulaire du stand de collecte dans l'introduction du chapitre « Bénévolat et adhésion », en conservant ses proportions.
 - Remplacement des points-virgules de la liste des actions bénévoles par une ponctuation homogène en phrases autonomes.
+- Correction de l'étape de réservation pour préciser que la rencontre avec le chaton est organisée dans sa famille d'accueil après un premier contact avec l'association.
+- Renommage de la première étape d'adoption en « Votre première rencontre » et mise en vert des trois intitulés d'étape.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
 - Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
 - Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
