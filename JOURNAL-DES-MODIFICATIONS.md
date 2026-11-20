@@ -224,6 +224,12 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Renommage de la première étape d'adoption en « Votre première rencontre » et mise en vert des trois intitulés d'étape.
 - Ajout sous « Nous soutenir » d'un parcours de prise en charge en neuf étapes, présenté en liste verticale sur toutes les tailles d'écran.
 - Allègement de la typographie et des espacements du parcours de prise en charge pour réduire sa hauteur sur mobile.
+- Clarification des deux issues possibles du parcours : adoption après accueil en famille ou retour sur leur lieu de vie pour certains chats libres identifiés et stérilisés au nom de la mairie.
+- Remplacement du texte final du parcours par la formulation provisoire proposée pour distinguer l'adoption des chats sociables et le suivi des chats libres.
+- Ajout d'un sourire chaleureux après l'invitation à adopter.
+- Précision de la commune concernée dans le texte sur les chats libres (« la commune où ils vivent »).
+- Reformulation de la phrase sur les chats sociables : ils « sont proposés » à l'adoption.
+- Séparation en deux paragraphes des possibilités d'adoption et de retour sur le lieu de vie pour mieux distinguer les deux parcours.
 - Remplacement du titre du parcours par « Le parcours des chats recueillis », au format des titres principaux, et passage en vert de l'intertitre « Derrière chaque chat sauvé ».
 - Renommage du parcours en « Parcours de nos protégés », remplacement du surtitre par « Prise en charge » et ajout de liens vers cette section dans les menus.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.

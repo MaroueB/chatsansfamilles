@@ -689,6 +689,10 @@ h1 em {
   line-height: 1.45;
 }
 
+.care-process-step p + p {
+  margin-top: 8px;
+}
+
 .support-heading,
 .press-heading {
   display: block;
