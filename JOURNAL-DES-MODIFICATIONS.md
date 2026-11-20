@@ -230,6 +230,10 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Précision de la commune concernée dans le texte sur les chats libres (« la commune où ils vivent »).
 - Reformulation de la phrase sur les chats sociables : ils « sont proposés » à l'adoption.
 - Séparation en deux paragraphes des possibilités d'adoption et de retour sur le lieu de vie pour mieux distinguer les deux parcours.
+- Mise au format rose et gras de l'information sur les chats adultes, assortie au bloc du certificat, avec le lien de contact conservé en vert.
+- Harmonisation de l'interligne et du poids du libellé « Chat adulte » avec le texte du certificat.
+- Ajustement de la note « Chat adulte » : seul son libellé reste rose et gras, le texte explicatif revient au style normal.
+- Harmonisation du libellé « Chat adulte : » à 14 px, comme l'accroche du certificat, tout en gardant l'explication en texte normal.
 - Remplacement du titre du parcours par « Le parcours des chats recueillis », au format des titres principaux, et passage en vert de l'intertitre « Derrière chaque chat sauvé ».
 - Renommage du parcours en « Parcours de nos protégés », remplacement du surtitre par « Prise en charge » et ajout de liens vers cette section dans les menus.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
