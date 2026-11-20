@@ -502,6 +502,12 @@ h1 em {
   font-weight: 700;
 }
 
+.adopt-documents-title a {
+  color: var(--accent-deep);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 .adopt-document-links {
   display: grid;
   gap: 7px;

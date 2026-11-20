@@ -216,6 +216,9 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Mise en gras du nom de l'association dans le bloc Reçu fiscal et renforcement du rose de « Familles » dans le nom du pied de page.
 - Passage en rose de la barre latérale de la galerie de parrainage et remplacement de son fond vert pâle par le rose pâle de l'encart de parrainage.
 - Ajout du visuel rectangulaire du stand de collecte dans l'introduction du chapitre « Bénévolat et adhésion », en conservant ses proportions.
+- Ajout du podcast « L'Arche de Iona » d'Ouest Track Radio, diffusé le 24 octobre 2026, dans « Ils parlent de nous ».
+- Retrait des contrats de réservation et d'adoption de la liste des documents consultables ; mise en valeur du certificat d'engagement et du délai de signature.
+- Regroupement de l'accroche et du lien du certificat en une seule phrase ; suppression du rappel séparé des 7 jours.
 - Remplacement des points-virgules de la liste des actions bénévoles par une ponctuation homogène en phrases autonomes.
 - Correction de l'étape de réservation pour préciser que la rencontre avec le chaton est organisée dans sa famille d'accueil après un premier contact avec l'association.
 - Renommage de la première étape d'adoption en « Votre première rencontre » et mise en vert des trois intitulés d'étape.
