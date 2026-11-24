@@ -235,6 +235,7 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Mise à jour du titre SEO et des descriptions de partage pour préciser l'intervention autour de Beuzeville et Pont-Audemer.
 - Mise à jour de la méta-description pour inclure explicitement le sauvetage.
 - Reformulation de la méta-description et de l'aperçu de partage selon le nouveau texte fourni.
+- Remplacement du titre SEO et du titre de partage par « Chats Sans Familles | Protection des chats dans l’Eure ».
 - Ajustement de la note « Chat adulte » : seul son libellé reste rose et gras, le texte explicatif revient au style normal.
 - Harmonisation du libellé « Chat adulte : » à 14 px, comme l'accroche du certificat, tout en gardant l'explication en texte normal.
 - Remplacement du titre du parcours par « Le parcours des chats recueillis », au format des titres principaux, et passage en vert de l'intertitre « Derrière chaque chat sauvé ».
