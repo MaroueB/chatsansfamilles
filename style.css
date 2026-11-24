@@ -908,7 +908,7 @@ h1 em {
 
 .sponsorship-cats {
   display: grid;
-  grid-auto-columns: clamp(190px, 24vw, 240px);
+  grid-auto-columns: clamp(220px, 24vw, 260px);
   grid-auto-flow: column;
   gap: 16px;
   overflow-x: auto;
@@ -926,7 +926,8 @@ h1 em {
   scroll-snap-align: start;
 }
 
-.sponsorship-cat a {
+.sponsorship-cat > a,
+.sponsorship-cat-content {
   display: grid;
   height: 100%;
   padding: 10px;
@@ -946,15 +947,46 @@ h1 em {
   margin-top: 10px;
   color: var(--coral-deep);
   font-family: var(--sans);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
+  text-align: center;
+}
+
+.sponsorship-cat.is-available .sponsorship-cat-name {
+  color: var(--accent-deep);
+}
+
+.sponsorship-cat-status {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 4px 8px;
+  border-radius: 3px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.sponsorship-cat-status.is-available {
+  color: var(--coral-deep);
+  background: var(--coral-pale);
+}
+
+.sponsorship-cat-status.is-sponsored {
+  color: var(--accent-deep);
+  background: var(--accent-pale);
 }
 
 .sponsorship-cat-action {
+  display: inline-flex;
+  width: fit-content;
+  justify-self: center;
   margin-top: 5px;
   color: var(--accent-deep);
   font-size: 13px;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .sponsorship-cat a:focus-visible {

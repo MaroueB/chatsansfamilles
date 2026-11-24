@@ -240,6 +240,21 @@ Ce fichier garde une trace des changements apportés au site. Ajouter une entré
 - Harmonisation du libellé « Chat adulte : » à 14 px, comme l'accroche du certificat, tout en gardant l'explication en texte normal.
 - Remplacement du titre du parcours par « Le parcours des chats recueillis », au format des titres principaux, et passage en vert de l'intertitre « Derrière chaque chat sauvé ».
 - Renommage du parcours en « Parcours de nos protégés », remplacement du surtitre par « Prise en charge » et ajout de liens vers cette section dans les menus.
+- Mise en place d'un générateur local de la galerie de parrainage à partir de dossiers séparant les chats à parrainer et déjà parrainés.
+- Remplacement du statut des chats parrainés par une phrase unique : « J'ai déjà quelqu'un qui prend soin de moi ! Merci ! :-) ».
+- Remplacement de l'émoticône texte par un vrai smiley dans le statut des chats parrainés.
+- Ajustement de la largeur des vignettes et de l'encadré de statut pour améliorer le retour à la ligne du message des chats parrainés.
+- Suppression des contours autour des statuts de parrainage, conservation des fonds teintés et centrage de leur texte.
+- Centrage des noms des chats dans les fiches de parrainage.
+- Centrage du lien d'action « Écrivez à l’association pour moi » sous le statut des chats à parrainer.
+- Raccourcissement du message affiché pour les chats déjà parrainés.
+- Remplacement du smiley des chats déjà parrainés par un cœur rose.
+- Reformulation du lien des chats à parrainer à la première personne : « Écrivez pour me parrainer ».
+- Reformulation de l'introduction de la galerie pour annoncer les chats à parrainer et ceux déjà parrainés.
+- Remplacement du lien par « Écrivez à l’association pour moi » pour éviter la répétition de « parrainer ».
+- Reformulation des fiches « À parrainer » avec « 😺 Et si vous me parrainiez ? » et le lien rose « Écrivez-moi ! ».
+- Passage en vert des noms et du lien des chats à parrainer, en conservant le fond rose ; fiches déjà parrainées inchangées.
+- Agrandissement des noms des chats de 16 à 18 px et raccourcissement du message des chats parrainés.
 - Ajout d'un lien de contact dans la sous-partie « Devenir bénévole », en cohérence avec l'appel à adhérer.
 - Harmonisation des appels à l'action des sous-parties bénévolat et adhésion avec la formulation « Envie de… ? Contactez-nous. ».
 - Déplacement de « Il n'y a pas de petit coup de pouce : chaque aide compte. » en conclusion commune au bas du chapitre bénévolat et adhésion.
